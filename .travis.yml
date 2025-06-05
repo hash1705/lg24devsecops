@@ -11,3 +11,5 @@ after_success:
 addons:
   sonarcloud:
     organization: "hash1705"
+    token:
+      secure: "f1c69112ebfdfaf1b66b1182abe925ce561cd8f7"
